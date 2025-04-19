@@ -1,1 +1,1 @@
-![Info](darkxx-gh.png) 
+![Info](assets/darkxx-gh.png) 
