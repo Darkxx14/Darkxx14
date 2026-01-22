@@ -1,1 +1,1 @@
-![Info](assets/darkxx-gh.png) 
+![Info](assets/darkxx.png) 
